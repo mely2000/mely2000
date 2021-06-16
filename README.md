@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mely2000
-- 👀 I’m interested in Java, JavaScript, C, C++, 
+- 👀 I’m interested in anything tech
 - 🌱 I’m currently learning Java and JavaScript
 
 <!---
